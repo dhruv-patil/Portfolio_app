@@ -15,3 +15,4 @@ Third-party Plugins used-
   How to make an UI from scratch.
   Gradient colour schemes.
   Gradient Images.
+  How to use url_laucher to open URLs and dialpad.
